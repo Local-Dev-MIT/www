@@ -3,7 +3,7 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: This is an introduction to Newtonian Physics
+course_description: This is an introduction to Laws of potions Physicssss
 course_image:
   content: ''
   website: intro-to-mechanics
