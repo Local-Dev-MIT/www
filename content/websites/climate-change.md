@@ -9,7 +9,6 @@ course_image:
   website: climate-change
 course_title: Climate Change
 department_numbers: []
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
