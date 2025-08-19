@@ -26,5 +26,5 @@ title: On egypt
 topics: []
 uid: c509fd88-8cc5-47c3-b0ca-26ee3a1e9d5e
 url_path: courses/egy100-on-egypt-spring-2025
-year: '2025'
+year: '2026'
 ---
