@@ -10,7 +10,6 @@ course_image:
 course_title: Intro to Mechanics
 department_numbers:
 - '2'
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
