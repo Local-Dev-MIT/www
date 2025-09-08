@@ -12,7 +12,7 @@ course_title: Intro to Quantum Computing
 department_numbers: []
 draft: true
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
   content: []
   website: intro-to-quantum-computing
