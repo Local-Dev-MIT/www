@@ -11,7 +11,7 @@ course_title: On egypt
 department_numbers: []
 draft: true
 extra_course_numbers: ''
-hide_download: true
+hide_download: false
 instructors:
   content: []
   website: egyptian-history
