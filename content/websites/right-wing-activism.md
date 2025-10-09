@@ -11,7 +11,7 @@ course_title: Right Wing Activism
 department_numbers: []
 draft: true
 extra_course_numbers: ''
-hide_download: false
+hide_download: true
 instructors:
   content: []
   website: right-wing-activism
