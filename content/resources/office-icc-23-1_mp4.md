@@ -12,6 +12,7 @@ image_metadata:
   image_alt: ''
 learning_resource_types:
 - Design Assignments
+- Image Gallery
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: office-icc-23 (1).mp4
