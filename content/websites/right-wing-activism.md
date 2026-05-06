@@ -9,8 +9,9 @@ course_image:
   website: right-wing-activism
 course_title: Right Wing Activism
 department_numbers: []
+draft: true
 extra_course_numbers: ''
-hide_download: true
+hide_download: false
 instructors:
   content: []
   website: right-wing-activism
